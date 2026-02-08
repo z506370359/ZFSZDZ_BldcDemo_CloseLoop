@@ -21,3 +21,7 @@ JLinkLog.txt
 *.pbd
 *.browse
 *.pbw
+
+*.ini
+*.scvd
+DebugConfig/
